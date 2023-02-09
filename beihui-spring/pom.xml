@@ -11,4 +11,9 @@
 
     <description>手写代码模拟spring底层原理</description>
 
+    <properties>
+        <maven.compiler.source>8</maven.compiler.source>
+        <maven.compiler.target>8</maven.compiler.target>
+    </properties>
+
 </project>
